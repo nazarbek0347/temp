@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home page</title>
+</head>
+<body>
+    <h2>You are in home page</h2>
+    <form>
+        <input name="name" placeholder="search name">
+        <button type="submit">Qidirish</button>
+    </form>
+
+    <ol>
+        {% for i in name %}
+
+            <li>{{ i }}</li>
+        {% endfor %}
+    </ol>
+</body>
+</html>

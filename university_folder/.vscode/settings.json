@@ -1,0 +1,11 @@
+{
+    "workbench.editor.focusRecentEditorAfterClose": true,
+    "workbench.editor.historyBasedLanguageDetection": true,
+    "workbench.editor.dragToOpenWindow": true,
+    "workbench.editor.languageDetection": true,
+    "workbench.editor.mouseBackForwardToNavigate": true,
+    "workbench.editor.showIcons": true,
+    "workbench.editor.splitOnDragAndDrop": true,
+    "workbench.editor.tabActionCloseVisibility": true,
+    "workbench.editor.tabActionUnpinVisibility": true
+}
